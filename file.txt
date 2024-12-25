@@ -1,1 +1,2 @@
 "Initial content" 
+"Line 3 from master" 
